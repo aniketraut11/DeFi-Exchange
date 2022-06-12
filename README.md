@@ -13,9 +13,9 @@ Rinkeby Testnet whitelist contract address: 0x1412d968FF9D882664b36961b50822573f
 
 DApp 2: NFT Collection, users can mint NFT by paying ETH, whitelisted users have 5 min early access to the NFT collection where they are guaranteed 1 NFT.
 
-Github:
+Github: https://github.com/aniketraut11/NFT-Collection
 
-Website:
+Website: https://nft-collection-two-blue.vercel.app/
 
 Rinkeby Testnet address for NFT Collection ERC721 smart contract: 0x57Ddaf3dF16CbF31226ED02449F4d6401e9345dA
 
