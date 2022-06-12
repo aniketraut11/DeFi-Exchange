@@ -8,17 +8,20 @@ Github:
 
 Website: 
 
+
 DApp 2: NFT Collection, users can mint NFT by paying ETH, whitelisted users have 5 min early access to the NFT collection where they are guaranteed 1 NFT.
 
 Github:
 
 Website:
 
+
 DApp 3: Initial coin offering for custom ERC20 token. Users can buy Tokens for ETH. Every NFT holder from NFT collection in the previous app gets 20 tokens for free.
 
 Github:
 
 Website:
+
 
 DApp 4: A DeFi exchange with asset pair ETH<>Custom token from the ICO project. Users can swap tokens and provide liquidity for the pool. For Providing liquidity, users get Liquidity Provider Tokens.
 
