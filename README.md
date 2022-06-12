@@ -6,7 +6,7 @@ DApp 1: Early supporters access to a whitelist for a NFT collection. Access to o
 
 Github: https://github.com/aniketraut11/whitelist-DApp
 
-Website: 
+Website: https://whitelist-dapp-21tod7cj9-aniketraut11.vercel.app/
 
 Rinkeby Testnet whitelist contract address: 0x1412d968FF9D882664b36961b50822573fBB56fB
 
