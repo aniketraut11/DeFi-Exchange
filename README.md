@@ -8,7 +8,7 @@ Github:
 
 Website: 
 
-Rinkeby Testnet contract address:
+Rinkeby Testnet whitelist contract address: 0x1412d968FF9D882664b36961b50822573fBB56fB
 
 
 DApp 2: NFT Collection, users can mint NFT by paying ETH, whitelisted users have 5 min early access to the NFT collection where they are guaranteed 1 NFT.
@@ -17,23 +17,23 @@ Github:
 
 Website:
 
-Rinkeby Testnet contract address:
+Rinkeby Testnet address for NFT Collection ERC721 smart contract: 0x57Ddaf3dF16CbF31226ED02449F4d6401e9345dA
 
 DApp 3: Initial coin offering for custom ERC20 token. Users can buy Tokens for ETH. Every NFT holder from NFT collection in the previous app gets 20 tokens for free.
 
-Github:
+Github: https://github.com/aniketraut11/ico
 
-Website:
+Website: https://ico-sage.vercel.app/
 
-Rinkeby Testnet contract address:
+Rinkeby Testnet cryptodev token contract address: 0x1412d968FF9D882664b36961b50822573fBB56fB
 
 DApp 4: A DeFi exchange with asset pair ETH<>Custom token from the ICO project. Users can swap tokens and provide liquidity for the pool. For Providing liquidity, users get Liquidity Provider Tokens.
 
-Website: 
+Website: https://defi-exchange-alpha.vercel.app/
 
-Github:
+Github: https://github.com/aniketraut11/DeFi-Exchange
 
-Rinkeby Testnet contract address:
+Rinkeby Testnet contract address for DeFi Exchange: 0x94b9D68ADB6B979712081a808F042796FaCb5EC0
 
 
 
