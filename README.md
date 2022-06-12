@@ -4,7 +4,7 @@ built 4 DApps in this project, smart contract for all of them deployed on Rinkeb
 
 DApp 1: Early supporters access to a whitelist for a NFT collection. Access to only 20 people. Users can add themselves to the whitelist with a Metamask transaction.
 
-Github:
+Github: https://github.com/aniketraut11/whitelist-DApp
 
 Website: 
 
