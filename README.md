@@ -1,4 +1,5 @@
 DeFi Exchange - ICO - NFT Collection - Whitelist
+
 built 4 DApps in this project, smart contract for all of them deployed on Rinkeby test network and React used to build frontend, users can use their metamask to interact with the DApps.
 
 DApp 1: Early supporters access to a whitelist for a NFT collection. Access to only 20 people. Users can add themselves to the whitelist with a Metamask transaction.
